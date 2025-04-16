@@ -4,7 +4,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=khadimhussain99&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/khadimhussain99)
 
-I hold a Bachelor of Science in Computer Science from the University of Sindh and am certified in React and JavaScript by Meta. With expertise in modern web technologies like React.js, Tailwind CSS, and HTML5, I specialize in creating intuitive, responsive, and engaging user interfaces. Committed to continuous learning and innovation, I bring adaptability and dedication to every project, aiming to deliver impactful digital experiences.
+Bachelor of Science in Computer Science from the University of Sindh, certified in React and JavaScript by Meta. Specialized in building high-performance, pixel-perfect web applications using React.js and Vue.js. Proficient in responsive design with Tailwind CSS and Bootstrap 5, and experienced in RESTful API integration, state management (Redux, Pinia), and component-driven architecture with reusable design systems.
+
+Skilled in frontend performance optimization, lazy loading, and accessible web design aligned with WCAG standards. Familiar with CI/CD pipelines and Git workflows, including feature branching and pull request reviews. Dedicated to continuous learning and innovation, with a strong focus on delivering impactful and user-centric digital experiences.
 
 ## 🚀 Quick Facts
 
