@@ -53,7 +53,7 @@ I've delivered projects featuring authentication, payment systems, interactive d
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khadimhussain99&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+![Khadim's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadimhussain99&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khadimhussain99&layout=compact&theme=tokyonight&hide=html,css)
 
