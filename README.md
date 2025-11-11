@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Khadim Hussain - Full-Stack Developer
+# 👋 Hi, I'm Khadim Hussain
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khadimhussain99&label=Profile%20views&color=0e75b6&style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)
 
-A full-stack developer with 2+ years of experience building real-world web applications — from startup MVPs to enterprise-scale platforms. Bachelor of Science in Computer Science from the University of Sindh, certified in React and JavaScript by Meta.
+A passionate web developer with 3 years of experience building real-world web applications — from startup MVPs to enterprise-scale platforms. Bachelor of Science in Computer Science from the University of Sindh, certified in React and JavaScript by Meta.
 
 I specialize in crafting high-performance, pixel-perfect applications using modern technologies across the entire stack. I'm proficient in building dynamic frontends with React, Next.js, Vue.js, and Nuxt.js, and powerful backends with Node.js, RESTful APIs, MySQL, and MongoDB. I own the full development lifecycle, from initial setup and CI/CD pipelines to deployment and scaling.
 
@@ -24,25 +24,36 @@ I've delivered projects featuring authentication, payment systems, interactive d
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat&logo=nuxt.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### Databases & Styling
+### Databases
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
 
 ### Styling & UI
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white)
+![PrimeReact](https://img.shields.io/badge/-PrimeReact-00BFFF?style=flat&logo=primereact&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white)
 
 ### Tools & Practices
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat&logo=swagger&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0078D7?style=flat&logo=azure-pipelines&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ## 💼 My Experience
 
